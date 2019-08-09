@@ -267,7 +267,7 @@ int main()
 int main()
 {
 	//Строковый литерал
-	const char *strLiteral = ’’String Literal";
+	const char *strLiteral = "String Literal";
 	//Ввод пользовательской строки
 	char *buffer = (char*)calloc(1024, sizeof(char)); //Буфер с запасом
 	
@@ -346,7 +346,7 @@ int main()
 }
 
 ```
-##Пропуск (`continue`) Прерывание (`break`)
+## Пропуск (`continue`) Прерывание (`break`)
 Если в цикле требуется пропустить итерацию, нужно использовать `continue`:
 ```c
 #include <stdio.h>
