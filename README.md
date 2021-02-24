@@ -1,4 +1,4 @@
-## Language C
+## Language ANSI C
 - [Hello, world!](#hello-world)
 - [Команды форматирования printf()](#команды-форматирования-printf)
 - [Директива include](#директива-include)
